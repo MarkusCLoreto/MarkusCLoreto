@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @MarkusCLoreto
-- 👀 I’m interested in games
-- 🌱 I’m currently learning GitHub.
-- 💞️ I’m looking to collaborate on no one.
-- 📫 How to reach me n/a
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: yes
-
-<!---
-MarkusCLoreto/MarkusCLoreto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-This is a sample file for my first github project in CS3
+-Please clone this repository to you repo.
+-https://github.com/MarkusCLoreto/ComputerScience3
